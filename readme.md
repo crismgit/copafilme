@@ -1,4 +1,4 @@
-Projeto Copa de FIlmes (Incompleto)
+#Projeto Copa de FIlmes (Incompleto)
 
 IMPORTANTE!
 
@@ -8,7 +8,8 @@ IMPORTANT!
 
 The use of any part or all of this code it's entirely user's responsability. 
 
-Alertas de Segurança / Security Alerts
+
+Alertas de Segurança (Potenciais vulnerabilidades)/ Security Alerts (Potential vulnerabilities)
 
 Dependencies:CopaFilmes/ClientApp/package-lock.json
 
