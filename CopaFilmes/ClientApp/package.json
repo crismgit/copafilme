@@ -5,7 +5,7 @@
   "dependencies": {
     "axios": "0.19.0",
     "bootstrap": "^4.3.1",
-    "jquery": "3.3.1",
+    "jquery": "3.4.0",
     "qs": "6.5.2",
     "qs-stringify": "1.1.0",
     "react": "^16.0.0",
